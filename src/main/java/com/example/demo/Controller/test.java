@@ -9,6 +9,6 @@ public class test {
     @ResponseBody
     @RequestMapping("/smn")
     public String test1(){
-        return "testsmn";
+        return "testsmnnewtest123";
     }
 }
